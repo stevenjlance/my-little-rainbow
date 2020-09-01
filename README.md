@@ -95,3 +95,4 @@ div {
     border-top-color: red;  /* color in CSS refers to font color */
   }  /* all elements will have red font */
 ```
+**SOURCE**: This lab was taken and modified from [Jeff Astor's original version of this lab](https://github.com/Jastor11/my-little-rainbow/). 
