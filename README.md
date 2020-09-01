@@ -1,7 +1,6 @@
 MY LITTLE RAINBOW
 =================
 ![](https://media.giphy.com/media/g72UoNHEOkt3i/giphy.gif)  
-
 In this tutorial we're going to make a rainbow with HTML `<div>` elements. And while we do it we're going to learn about html elements, css styling, css selectors, how color works in css, and importing stylesheets.  That might sound like a lot but it isn't.
 
 Below your will find directions on Making a Rainbow. If you need to review anything regarding CSS and HTML, the end of this document provides some information that can help you out!
@@ -46,7 +45,9 @@ Here is the first example of HTML code:
     border-top-color: #f00;
   }
 ```
-4. Style the remaining divs in order to generte your own rainbow!
+4. Style the remaining divs in order to generte your own rainbow! Final image should look similar to the image below  
+![](https://github.com/stevenjlance/my-little-rainbow/blob/master/Final%20Image.png?raw=true) 
+
 
 HTML BASICS
 ------------
