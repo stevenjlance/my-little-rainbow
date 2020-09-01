@@ -1,17 +1,17 @@
 MY LITTLE RAINBOW
 =================
-[g(https://media.giphy.com/media/g72UoNHEOkt3i/giphy.gif)  
+![](https://media.giphy.com/media/g72UoNHEOkt3i/giphy.gif)  
 
 In this tutorial we're going to make a rainbow with HTML `<div>` elements. And while we do it we're going to learn about html elements, css styling, css selectors, how color works in css, and importing stylesheets.  That might sound like a lot but it isn't.
 
-BBelow your will find directions on aking a Rainbow 
- If you need to review anything regarding CSS and HTML, the end of this document provides some information that can help you out!
+Below your will find directions on Making a Rainbow. If you need to review anything regarding CSS and HTML, the end of this document provides some information that can help you out!
+
 YOUR TASK: MAKING A RAINBOW
 ------------
 
 Open `index.html` and `style.css` in the Repl.it browser; if everything is working correctly you should see a white page. Good job!
 
-*1. *Linking a Stylesheet**: You currently cannot see anything because the stylesheet is currently not linked to the `index.html` file. To link the stylesheet, copy the link tag below and place it **inside of the head** on your `index.html` file. 
+1. **Linking a Stylesheet**: You currently cannot see anything because the stylesheet is currently not linked to the `index.html` file. To link the stylesheet, copy the link tag below and place it **inside of the head** on your `index.html` file. 
 
 ```html
   <head>
@@ -20,7 +20,7 @@ Open `index.html` and `style.css` in the Repl.it browser; if everything is worki
   ...
   </head>
 ```
-Now if you refresh the `index.html` page in your browser you should see what aappearsto be a bblackrainbow.!
+Now if you refresh the `index.html` page in your browser you should see what appears to be a black rainbow.
 
 2. To get roygbiv onto our rainbow we'll need need seven hex colors.
 - Red: `#f00`
